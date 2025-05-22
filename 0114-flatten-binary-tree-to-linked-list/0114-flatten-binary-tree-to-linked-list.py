@@ -1,34 +1,28 @@
-"""
-# Definition for a Node.
-class Node(object):
-    def __init__(self, val=0, left=None, right=None, next=None):
-        self.val = val
-        self.left = left
-        self.right = right
-        self.next = next
-"""
-
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution(object):
-    def connect(self, root):
+    def flatten(self, root):
         """
-        :type root: Node
-        :rtype: Node
+        :type root: Optional[TreeNode]
+        :rtype: None Do not return anything, modify root in-place instead.
         """
         if not root:
             return None
-
-        queue = [root]
-        while queue:
-            size = len(queue)
-            prev = None
-            for i in range(size):
-                node = queue.pop(0)
-                if prev:
-                    prev.next = node
-                prev = node
+        
+        while root:
+            if root.left:
+                mostright = root.left
+                while mostright.right:
+                    mostright = mostright.right
                 
-                if node.left:
-                    queue.append(node.left)
-                if node.right:
-                    queue.append(node.right)
-        return root
+                mostright.right = root.right
+
+                root.right = root.left
+                root.left = None
+            
+            root = root.right
+            

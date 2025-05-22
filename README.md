@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/vsgyou/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vsgyou/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/vsgyou/Leetcode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsgyou/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/vsgyou/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Design
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/vsgyou/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vsgyou/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/vsgyou/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsgyou/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vsgyou/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/vsgyou/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/vsgyou/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/vsgyou/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/vsgyou/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Binary Search
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/vsgyou/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vsgyou/Leetcode/tree/master/0210-course-schedule-ii) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

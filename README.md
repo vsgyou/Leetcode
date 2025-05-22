@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/vsgyou/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/vsgyou/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/vsgyou/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/vsgyou/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/vsgyou/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vsgyou/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/vsgyou/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

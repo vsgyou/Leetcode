@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vsgyou/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vsgyou/Leetcode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/vsgyou/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vsgyou/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vsgyou/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vsgyou/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vsgyou/Leetcode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vsgyou/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vsgyou/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vsgyou/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vsgyou/Leetcode/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/vsgyou/Leetcode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |

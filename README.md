@@ -91,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vsgyou/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/vsgyou/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vsgyou/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/vsgyou/Leetcode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsgyou/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vsgyou/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vsgyou/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsgyou/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -160,9 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/vsgyou/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/vsgyou/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vsgyou/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/vsgyou/Leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vsgyou/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vsgyou/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vsgyou/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

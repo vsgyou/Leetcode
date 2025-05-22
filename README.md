@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vsgyou/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/vsgyou/Leetcode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsgyou/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0433-minimum-genetic-mutation](https://github.com/vsgyou/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Design
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vsgyou/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/vsgyou/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0399-evaluate-division](https://github.com/vsgyou/Leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/vsgyou/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vsgyou/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/vsgyou/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/vsgyou/Leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/vsgyou/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vsgyou/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vsgyou/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/vsgyou/Leetcode/tree/master/0945-snakes-and-ladders) |

@@ -2,7 +2,6 @@ class Node:
     def __init__(self, ending = False):
         self.children = {}
         self.ending = ending
-
 class Trie(object):
 
     def __init__(self):
@@ -14,11 +13,12 @@ class Trie(object):
         :rtype: None
         """
         node = self.root
-        for char in word:
-            if char not in node.children:
-                node.children[char] = Node()
-            node = node.children[char]
+        for chr in word:
+            if chr not in node.children:
+                node.children[chr] = Node()
+            node = node.children[chr]
         node.ending = True
+
 
     def search(self, word):
         """
@@ -26,10 +26,10 @@ class Trie(object):
         :rtype: bool
         """
         node = self.root
-        for char in word:
-            if char not in node.children:
+        for chr in word:
+            if chr not in node.children:
                 return False
-            node = node.children[char]
+            node = node.children[chr]
         return node.ending
 
 
@@ -39,10 +39,10 @@ class Trie(object):
         :rtype: bool
         """
         node = self.root
-        for char in prefix:
-            if char not in node.children:
+        for chr in prefix:
+            if chr not in node.children:
                 return False
-            node = node.children[char]
+            node = node.children[chr]
         return True
 
 

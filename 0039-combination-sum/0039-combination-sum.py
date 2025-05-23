@@ -45,8 +45,8 @@ class Solution(object):
 
         
         """
-        
         result, nums = [], []
+        
         def dfs(start, total):
             if total > target:
                 return
@@ -57,5 +57,7 @@ class Solution(object):
                 nums.append(num)
                 dfs(i, num + total)
                 nums.pop()
-        dfs(0,0)    
+        
+
+        dfs(0,0)
         return result

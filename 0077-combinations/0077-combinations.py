@@ -9,7 +9,5 @@ class Solution:
                 backtrack(elements, i+1, k-1)
                 elements.pop()
         backtrack([],1,k)
-
-
             
         return result

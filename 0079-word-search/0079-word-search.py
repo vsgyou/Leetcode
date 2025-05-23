@@ -22,7 +22,6 @@ class Solution(object):
             for r, c in [(-1,0), (1,0), (0,-1), (0,1)]:
                 if dfs(row + r, col + c, idx + 1):
                     return True
-            
             traserving.remove((row,col))
         
         # 초기 위치 찾기

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vsgyou/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vsgyou/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/vsgyou/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/vsgyou/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vsgyou/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vsgyou/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vsgyou/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vsgyou/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vsgyou/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/vsgyou/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/vsgyou/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/vsgyou/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vsgyou/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vsgyou/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vsgyou/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vsgyou/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/vsgyou/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/vsgyou/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vsgyou/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/vsgyou/Leetcode/tree/master/0289-game-of-life) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vsgyou/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/vsgyou/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vsgyou/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vsgyou/Leetcode/tree/master/0101-symmetric-tree) |
@@ -346,4 +350,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vsgyou/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vsgyou/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/vsgyou/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/vsgyou/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

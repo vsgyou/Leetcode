@@ -4,6 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        """
+        ex) [-2, 1, -3, 4,-1, 2, 1,-5, 4]
+        dp= [-2, 1, -2, 4, 3, 5, 6, 1, 4]
+          
+        """
         dp = [0] * len(nums)
         dp[0] = nums[0]
         for i in range(1, len(nums)):

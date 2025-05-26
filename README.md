@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vsgyou/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0772-construct-quad-tree](https://github.com/vsgyou/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/vsgyou/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/vsgyou/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vsgyou/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vsgyou/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vsgyou/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/vsgyou/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vsgyou/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/vsgyou/Leetcode/tree/master/0148-sort-list) |
 | [0772-construct-quad-tree](https://github.com/vsgyou/Leetcode/tree/master/0772-construct-quad-tree) |
+| [0954-maximum-sum-circular-subarray](https://github.com/vsgyou/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -366,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vsgyou/Leetcode/tree/master/0148-sort-list) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/vsgyou/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/vsgyou/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

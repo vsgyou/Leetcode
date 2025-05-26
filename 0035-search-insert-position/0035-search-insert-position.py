@@ -5,10 +5,24 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        cnt = 0
-        for num in nums:
-            if num < target:
-                cnt += 1
+        # cnt = 0
+        # for num in nums:
+        #     if num < target:
+        #         cnt += 1
+        #     else:
+        #          break
+        # return cnt
+
+        # 이진탐색
+        left, right = 0, len(nums)-1
+        while left <= right:
+            mid = (left + right) // 2
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                left = mid + 1
             else:
-                 break
-        return cnt
+                right = mid - 1
+        return left
+
+        

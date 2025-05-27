@@ -8,11 +8,11 @@ class Solution(object):
         :rtype: int
         """
         heap = []
+        
         for num in nums:
             if len(heap) < k:
                 heappush(heap, num)
-            else:
-                if heap[0] < num:
-                    heappop(heap)
-                    heappush(heap, num)
+            elif heap[0] < num:
+                heappop(heap)
+                heappush(heap, num)
         return heap[0]

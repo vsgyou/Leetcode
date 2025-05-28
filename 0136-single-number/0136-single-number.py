@@ -4,10 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        result = []
+        # result = []
+        # for num in nums:
+        #     if num not in result:
+        #         result.append(num)
+        #     else:
+        #         result.remove(num)
+        # return result[0]
+        
+        # XOR 사용
+        result = 0
         for num in nums:
-            if num not in result:
-                result.append(num)
-            else:
-                result.remove(num)
-        return result[0]
+            result ^= num
+        return result

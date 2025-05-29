@@ -18,10 +18,18 @@ class Solution(object):
         f(n) = f(n-2) + f(n-1)
         """
 
-        dp = {1:1, 2:2}
-        for i in range(3, n+1):
-            dp[i] = dp[i-2] + dp[i-1]
+        # dp = {1:1, 2:2}
+        # for i in range(3, n+1):
+        #     dp[i] = dp[i-2] + dp[i-1]
         
-        return dp[n]
+        # return dp[n]
         
+        # 공간복잡도 개선
+        if n < 3:
+            return n
+
+        pre, cur = 1, 2
         
+        for _ in range(n-2):
+            pre, cur = cur, cur+pre
+        return cur

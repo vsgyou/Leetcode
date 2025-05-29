@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vsgyou/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/vsgyou/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vsgyou/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vsgyou/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vsgyou/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/vsgyou/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vsgyou/Leetcode/tree/master/0189-rotate-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vsgyou/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vsgyou/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vsgyou/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vsgyou/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vsgyou/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |

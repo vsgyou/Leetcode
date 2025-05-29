@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vsgyou/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vsgyou/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vsgyou/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vsgyou/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vsgyou/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/vsgyou/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vsgyou/Leetcode/tree/master/0189-rotate-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vsgyou/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vsgyou/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vsgyou/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/vsgyou/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vsgyou/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vsgyou/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
@@ -410,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vsgyou/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vsgyou/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

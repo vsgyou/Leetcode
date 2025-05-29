@@ -22,15 +22,13 @@ class Solution(object):
         # 시간 복잡도 개선
 
         memo = {}
-        
         def dfs(start):
             if start in memo:
                 return memo[start]
-
             if start >= len(nums):
-                memo[start] = 0
+                return 0
             else:
-                memo[start] = max(nums[start] + dfs(start+2), dfs(start+1))
+                memo[start] = max(nums[start] + dfs(start + 2), dfs(start + 1))
             return memo[start]
         
         return dfs(0)

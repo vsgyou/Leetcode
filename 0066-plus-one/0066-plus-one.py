@@ -19,6 +19,6 @@ class Solution(object):
         # if result[0] == 0:
         #     result = result[1:]
         # return result
-
+        
         num = int("".join(map(str, digits))) + 1
         return list(map(int, str(num)))

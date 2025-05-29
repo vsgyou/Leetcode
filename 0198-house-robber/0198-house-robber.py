@@ -21,17 +21,24 @@ class Solution(object):
 
         # 시간 복잡도 개선
 
-        memo = {}
-        def dfs(start):
-            if start in memo:
-                return memo[start]
-            if start >= len(nums):
-                return 0
-            else:
-                memo[start] = max(nums[start] + dfs(start + 2), dfs(start + 1))
-            return memo[start]
+        # memo = {}
+        # def dfs(start):
+        #     if start in memo:
+        #         return memo[start]
+        #     if start >= len(nums):
+        #         return 0
+        #     else:
+        #         memo[start] = max(nums[start] + dfs(start + 2), dfs(start + 1))
+        #     return memo[start]
         
-        return dfs(0)
+        # return dfs(0)
+        
+        # DP해결법
+        dp = [0] * (len(nums)+1)
+        dp[1] = nums[0]
+        for i in range(2, len(nums)+1):
+            dp[i] = max(nums[i-1]+dp[i-2], dp[i-1])
+        return dp[-1]
             
 
 

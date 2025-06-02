@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        if len(nums) == 1:
-            return True 
+        # if len(nums) == 1:
+        #     return True 
 
         max_jump = 0
         curr_idx = 0

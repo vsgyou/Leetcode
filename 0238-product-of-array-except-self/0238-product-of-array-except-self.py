@@ -11,7 +11,7 @@ class Solution(object):
             left *= nums[i]
 
         right = 1
-        for i in range(len(nums)-1,-1,-1):
+        for i in range(len(nums)-1, -1, -1):
             result[i] *= right
             right *= nums[i]
-        return result
+        return result 

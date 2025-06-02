@@ -7,5 +7,7 @@ class Solution(object):
         """
         k %= len(nums)
         nums.reverse()
+        print(nums)
         nums[:k] = reversed(nums[:k])
+        print(nums)
         nums[k:] = reversed(nums[k:])

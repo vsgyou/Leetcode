@@ -4,10 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        reachable = 0
-        for i in range(len(nums)):
-            if i > reachable:
-                return False
-            reachable = max(reachable, i + nums[i])
-        
-        return reachable >= len(nums) -1
+        if len(nums) == 1:
+            return True 
+
+        max_jump = 0
+        curr_idx = 0
+        while curr_idx <= max_jump:
+            max_jump = max(max_jump, curr_idx+nums[curr_idx])
+            if max_jump >= len(nums)-1:
+                return True
+            curr_idx += 1
+        return False

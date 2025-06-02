@@ -6,8 +6,9 @@ class RandomizedSet(object):
         """
         Initialize the data structure.
         """
-        self.values = []
-        self.val_to_idx = {}
+        self.nums= []
+
+
 
     def insert(self, val):
         """
@@ -15,11 +16,11 @@ class RandomizedSet(object):
         :type val: int
         :rtype: bool
         """
-        if val in self.val_to_idx:
+        if val not in self.nums:
+            self.nums.append(val)
+            return True
+        else:
             return False
-        self.values.append(val)
-        self.val_to_idx[val] = len(self.values) -1
-        return True
 
     def remove(self, val):
         """
@@ -27,20 +28,15 @@ class RandomizedSet(object):
         :type val: int
         :rtype: bool
         """
-        if val not in self.val_to_idx:
+        if val in self.nums:
+            self.nums.remove(val)
+            return True
+        else:
             return False
-        last_element = self.values[-1]
-        val_idx = self.val_to_idx[val]
-        self.values[val_idx] = last_element
-        self.val_to_idx[last_element] = val_idx
-
-        self.values.pop()
-        del self.val_to_idx[val]
-        return True
 
     def getRandom(self):
         """
         Returns a random element from the set.
         :rtype: int
         """
-        return random.choice(self.values)
+        return random.choice(self.nums)

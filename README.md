@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vsgyou/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vsgyou/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vsgyou/Leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/vsgyou/Leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vsgyou/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/vsgyou/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vsgyou/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/vsgyou/Leetcode/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vsgyou/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vsgyou/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vsgyou/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0392-is-subsequence](https://github.com/vsgyou/Leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/vsgyou/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/vsgyou/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Binary Search

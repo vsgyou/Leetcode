@@ -5,8 +5,6 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        numbers.sort()
-        print(numbers)
         left, right = 0, len(numbers)-1
         while left < right:
             if numbers[left] + numbers[right] > target:
@@ -14,6 +12,7 @@ class Solution(object):
             elif numbers[left] + numbers[right] < target:
                 left += 1
             else:
-                output = [left+1 ,right+1]
+                result = [left+1, right +1]
                 break
-        return output
+        return result if result else -1
+

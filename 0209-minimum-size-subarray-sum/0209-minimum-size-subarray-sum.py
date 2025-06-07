@@ -42,8 +42,7 @@ class Solution(object):
         for end in range(len(nums)):
             curr_sum += nums[end]
             while curr_sum >= target:
-                min_len = min(min_len, end-start+1)
+                min_len = min(min_len, end - start +1)
                 curr_sum -= nums[start]
                 start += 1
         return min_len if min_len != float("inf") else 0
-

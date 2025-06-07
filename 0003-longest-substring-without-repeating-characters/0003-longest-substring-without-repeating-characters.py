@@ -21,13 +21,13 @@ class Solution(object):
         max_len = 0
         s_set = set()
         while end < len(s):
-            if s[end] in s_set:
-                s_set.remove(s[start])
-                start +=1
 
-            else:
+            if s[end] not in s_set:
                 s_set.add(s[end])
                 max_len = max(max_len, end-start+1)
                 end += 1
+            else:
+                s_set.remove(s[start])
+                start +=1
 
         return max_len

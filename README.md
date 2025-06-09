@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1415-students-and-examinations](https://github.com/vsgyou/Leetcode/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vsgyou/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/vsgyou/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/vsgyou/Leetcode/tree/master/1827-invalid-tweets) |

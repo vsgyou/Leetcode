@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/vsgyou/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/vsgyou/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/vsgyou/Leetcode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/vsgyou/Leetcode/tree/master/1161-project-employees-i) |

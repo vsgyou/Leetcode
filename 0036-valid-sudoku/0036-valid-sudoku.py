@@ -4,7 +4,7 @@ class Solution(object):
         :type board: List[List[str]]
         :rtype: bool
         """
-        result = []
+
         for row in board:
             seen = set()
             for col in row:

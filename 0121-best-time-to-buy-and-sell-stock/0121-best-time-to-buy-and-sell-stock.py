@@ -4,7 +4,6 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        # 단순하게 반복문을 이용한 풀이. 시간복잡도는 O(n^2)
         # max_profit = 0
         # for i in range(len(prices)):
         #     for j in range(i+1, len(prices)):

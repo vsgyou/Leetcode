@@ -5,15 +5,16 @@ class Solution(object):
         :rtype: int
         """
         k = 0
-        curr = float("inf") 
+        curr = float("inf")
         count = 1
         for i in range(len(nums)):
             if nums[i] != curr:
                 curr = nums[i]
                 count = 1
+            else:
+                count += 1
+
             if count <= 2:
-                nums[k] = nums[i]
-                count+=1
-                k += 1
+                nums[k] = curr
+                k+=1
         return k
-                

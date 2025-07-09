@@ -12,7 +12,7 @@ class Solution(object):
         """
         citations.sort(reverse = True)
         num_cite = 0
-        for i, citation in enumerate(citations):
-            if citation > i:
+        for i in range(len(citations)):
+            if citations[i] >= i+1:
                 num_cite += 1
         return num_cite

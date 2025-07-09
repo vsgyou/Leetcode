@@ -15,4 +15,6 @@ class Solution(object):
         for i in range(len(citations)):
             if citations[i] >= i+1:
                 num_cite += 1
+            else:
+                break
         return num_cite

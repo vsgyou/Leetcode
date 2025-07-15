@@ -5,9 +5,9 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        i, j = 0, 0
-        while j < len(t):
-            if i < len(s) and s[i] == t[j]:
-                i+=1
-            j+=1
-        return i == len(s)
+        start = 0
+        for alpha in t:
+            if start < len(s) and alpha == s[start]:
+                start += 1
+
+        return start == len(s)

@@ -8,11 +8,13 @@ class Solution(object):
         while matrix:
             result += matrix.pop(0)
             if matrix and matrix[0]:
-                for row in matrix:
-                    result.append(row.pop())
+                for mat in matrix:
+                    result.append(mat.pop())
             if matrix:
                 result += matrix.pop()[::-1]
+            
             if matrix and matrix[0]:
-                for row in matrix[::-1]:
-                    result.append(row.pop(0))
+                for mat in matrix[::-1]:
+                    result.append(mat.pop(0))
+        
         return result

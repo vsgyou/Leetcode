@@ -10,10 +10,8 @@ class Solution(object):
                 if matrix[i][j] == 0:
                     zero_index.append([i,j])
 
-        print(zero_index)
-
         for row,col in zero_index:
             for i in range(len(matrix[0])):
                 matrix[row][i] = 0
-            for i in range(len(matrix)):
-                matrix[i][col] = 0
+            for j in range(len(matrix)):
+                matrix[j][col] = 0

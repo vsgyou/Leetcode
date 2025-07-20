@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vsgyou/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vsgyou/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/vsgyou/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsgyou/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/vsgyou/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Design
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vsgyou/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vsgyou/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0290-word-pattern](https://github.com/vsgyou/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/vsgyou/Leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/vsgyou/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/vsgyou/Leetcode/tree/master/0433-minimum-genetic-mutation) |

@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vsgyou/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/vsgyou/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/vsgyou/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/vsgyou/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsgyou/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/vsgyou/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vsgyou/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vsgyou/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vsgyou/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/vsgyou/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsgyou/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vsgyou/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0392-is-subsequence](https://github.com/vsgyou/Leetcode/tree/master/0392-is-subsequence) |
